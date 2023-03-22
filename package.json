@@ -47,6 +47,7 @@
     "yargs": "^17.6.2"
   },
   "dependencies": {
+    "@gtm-support/vue-gtm": "^2.0.0",
     "@soramitsu-ui/theme": "^0.3.0",
     "@soramitsu-ui/ui": "^0.10.0",
     "@vue-kakuyaku/core": "^0.4.3",
