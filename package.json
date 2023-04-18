@@ -52,6 +52,7 @@
     "yargs": "^17.6.2"
   },
   "dependencies": {
+    "@algolia/client-search": "^4.17.0",
     "@gtm-support/vue-gtm": "^2.0.0",
     "@soramitsu-ui/theme": "^0.3.0",
     "@soramitsu-ui/ui": "^0.10.0",
